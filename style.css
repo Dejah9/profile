@@ -62,3 +62,24 @@ body{
 		100%{transform: translate(10px);}
 }
 
+/*ABOUT*/
+.about{
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+.profile-img{
+	height: 400px;
+
+}
+
+.nav-bar{
+	top: 0;
+	position: sticky;
+	z-index: 2;
+
+}
+
+.navbar{
+	background-color: #000;
+}
