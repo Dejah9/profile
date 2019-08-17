@@ -22,8 +22,14 @@
  <section id="header">
  	<div class="container text-center">
  		<div class="user-box">
- 			<img src="khadejah2.jpg">
+ 			<img src="jcaalogo.png">
+ 			<h1>Khadejah Hylton</h1>
+ 			<p>Software Engineer</p>
  		</div>
+ 	</div>
+
+ 	<div class="scroll-btn">
+ 		<div class="scroll-bar"><a href=""><span></span></a></div>
  	</div>
  </section>
  
