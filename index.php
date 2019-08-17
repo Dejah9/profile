@@ -22,7 +22,7 @@
  <section id="header">
  	<div class="container text-center">
  		<div class="user-box">
- 			<img src="khadejah1.jpg">
+ 			<img src="khadejah2.jpg">
  		</div>
  	</div>
  </section>
