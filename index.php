@@ -22,7 +22,7 @@
  <section id="header">
  	<div class="container text-center">
  		<div class="user-box">
- 			<img src="jcaalogo.png">
+ 			<img src="khadejah1.jpg">
  			<h1>Khadejah Hylton</h1>
  			<p>Software Engineer</p>
  		</div>
@@ -34,13 +34,14 @@
  </section>
  <!-- User Info Section -->
  <section id="user-info">
+ 	<div class="nav-bar">
  	<nav class="navbar navbar-expand-lg">
   <a class="navbar-brand" href="#">Navbar</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
+    <ul class="navbar-nav ml-auto">
       <li class="nav-item">
         <a class="nav-link" href="#">HOME</a>
       </li>
@@ -59,6 +60,7 @@
     </ul>
   </div>
 </nav>
+</div>
 
 <!-- ABOUT -->
 <div class="about container" id="about">
