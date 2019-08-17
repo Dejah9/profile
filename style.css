@@ -93,3 +93,8 @@ body{
 	height: 50px;
 
 }
+
+.nav-bar .fa-bars{
+	font-size:35px;
+	color: #fff;
+}
