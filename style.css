@@ -88,3 +88,8 @@ body{
 .navbar{
 	background-color: #000;
 }
+
+.navbar-brand img{
+	height: 50px;
+
+}
