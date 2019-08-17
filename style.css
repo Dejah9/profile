@@ -12,6 +12,11 @@ body{
 	background-attachment: fixed;
 }
 
+.user-box img{
+	height: 100px;
+	width: 70px;
+}
+
 .user-box{
 	top:50%;
 	left:50%;
