@@ -11,8 +11,33 @@ body{
 	background-size: cover;
 	background-attachment: fixed;
 }
-img{
+/*img{
 	 width: 128px;
 	 height:128px;
 	 position: center;
+}*/
+
+.user-box{
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+}
+
+.user-box img{
+	border-radius: 50%;
+	width: 250%;
+	border: 2px solid #6caed5;
+}
+
+.user-box h1{
+	color: #fff;
+	font-weight: bold;
+	margin: 10px;
+
+}
+
+.user-box p{
+	color: #fff;
+
 }
