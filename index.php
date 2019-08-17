@@ -59,6 +59,18 @@
     </ul>
   </div>
 </nav>
+
+<!-- ABOUT -->
+<div class="about container" id="about">
+	<div class="row">
+		<div class="col-md-6 text-center">
+			<img src="kabrina.jpg" class="profile-img">
+		</div>
+	</div>
+	
+</div>
+
+
  </section>
 
  
