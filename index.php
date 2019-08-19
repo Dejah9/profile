@@ -186,12 +186,15 @@
 					<i class="fas fa-rocket"></i><span>Graphics</span>
 					<p>Blah blah blah blah</p>
 				</div>
+
+			</div>
 				<div class="col-md-4">
 
 				<div class="service-box">
 					<i class="fas fa-bolt"></i><span>Development</span>
 					<p>Blah blah blah blah</p>
 				</div>
+			</div>
 				<div class="col-md-4">
 
 				<div class="service-box">
