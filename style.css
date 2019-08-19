@@ -98,3 +98,17 @@ body{
 	font-size:35px;
 	color: #fff;
 }
+
+.navbar-toggler{
+	outline: none ! important;
+}
+
+.navbar-nav{
+	float: right;
+	text-align: right;
+
+}
+
+.nav-link{
+	color: #fff ! important;
+}
