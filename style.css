@@ -101,7 +101,7 @@ body{
 }
 
 .navbar-toggler{
-	outline: none ! important;
+	outline: none !important;
 }
 
 .navbar-nav{
@@ -111,7 +111,7 @@ body{
 }
 
 .nav-link{
-	color: #fff ! important;
+	color: #fff !important;
 }
 
 .skills-bar p{
@@ -120,13 +120,13 @@ body{
 }
 
 .progress{
-	border-radius: 16px ! important;
+	border-radius: 16px !important;
 	margin-bottom: 10px;
 
 }
 
 .progress-bar{
 	border-radius: 16px;
-	background: #000 ! important;
+	background: #000 !important;
 
 }
