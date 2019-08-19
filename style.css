@@ -127,6 +127,6 @@ body{
 
 .progress-bar{
 	border-radius: 16px;
-	background: red !important;
+	background: #000 !important;
 
 }
