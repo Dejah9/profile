@@ -144,7 +144,7 @@
 						<p>
 							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br>
 							<b>Company</b> - JCAA
-							<b>Duration</b> - 2 years
+							<b>Duration</b> - 2014-2018
 							<b>Location</b> - Kingston, Jamaica
 						</p>
 					</li>
@@ -170,6 +170,35 @@
 			</div>
 
 
+		</div>
+	</div>
+</div>
+
+<!-- Services -->
+<div class="Services" id="Services">
+	<div class="container">
+		<h1 class="text-center">My Offer Services</h1>
+		<p class="text-center">Subscribe to my work blah blah.</p>
+
+		<div class="row">
+			<div class="col-md-4">
+				<div class="service-box">
+					<i class="fas fa-rocket"></i><span>Graphics</span>
+					<p>Blah blah blah blah</p>
+				</div>
+				<div class="col-md-4">
+
+				<div class="service-box">
+					<i class="fas fa-bolt"></i><span>Development</span>
+					<p>Blah blah blah blah</p>
+				</div>
+				<div class="col-md-4">
+
+				<div class="service-box">
+					<i class="fas fa-chart-pie"></i><span>Business Intelligence</span>
+					<p>Blah blah blah blah</p>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
