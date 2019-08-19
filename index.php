@@ -177,7 +177,7 @@
 <!-- Services -->
 <div class="Services" id="Services">
 	<div class="container">
-		<h1 class="text-center">My Offer Services</h1>
+		<h1 class="text-center">My Offered Services</h1>
 		<p class="text-center">Subscribe to my work blah blah.</p>
 
 		<div class="row">
@@ -203,6 +203,30 @@
 				</div>
 			</div>
 		</div>
+	</div>
+</div>
+<!-- Contact -->
+<div class="Contact" id="contact">
+	<div class="container title">
+		<h1>Contact Me</h1>
+		<p class="text-center">Blah blah noejbhi b jnjbhb kn bihk nk</p>
+
+		<div class="row">
+			<div class="col-md-4">
+				<i class="fa fa-phone"></i>
+				<p>1-876-774-3557</p>
+			</div>
+			<div class="col-md-4">
+				<i class="fa fa-envelope"></i>
+				<p>khadejahhylton@yahoo.com</p>
+			</div>
+			<div class="col-md-4">
+				<i class="fa fa-internet-explorer"></i>
+				<p>www.smn.com</p>
+			</div>
+		</div>
+		<button type="button" class="btn btn-primary"><i class="fa fa-download">Resume</i></button>
+		<button type="button" class="btn btn-primary"><i class="fa fa-rocket">Hire Me</i></button>
 	</div>
 </div>
  </section>
