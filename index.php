@@ -92,7 +92,7 @@
 					<div class="progress-bar" style="width: 80% "> 80%</div>
 				</div>
 			</div>
-			</div>
+		</div>
 			
 		</div>
 	</div>
