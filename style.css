@@ -26,7 +26,8 @@ body{
 
 .user-box img{
 	border-radius: 50%;
-	width: 250%;
+	/*w should be 250*/
+	width: 0%;
 	border: 2px solid #6caed5;
 }
 
