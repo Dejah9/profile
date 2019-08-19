@@ -234,9 +234,9 @@
 			</div>
 		</div>
 
-		<button type="button" class="btn btn-primary"><i class="fa fa-download">Resume</i></button>
+		<button type="button" class="btn btn-primary"><i class="fa fa-download"></i>Resume</button>
 
-		<button type="button" class="btn btn-primary"><i class="fa fa-rocket">Hire Me</i></button>
+		<button type="button" class="btn btn-primary"><i class="fa fa-rocket"></i>Hire Me</button>
 	</div>
 
 	<div class="footer text-center">
