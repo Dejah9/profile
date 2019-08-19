@@ -107,7 +107,45 @@
 	
 </div>
 
-
+<!-- Resume -->
+<div class="resume" id="resume">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<h3>My Experiences</h3>
+				<ul class="timeline">
+					<li>
+						<h4>2019 - Systems Analyst</h4>
+						<p>
+							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br>
+							<b>Company</b> - JCAA
+							<b>Duration</b> - 2 years
+							<b>Location</b> - Kingston, Jamaica
+						</p>
+					</li>
+					<li>
+						<h4>2018 - Systems Analyst</h4>
+						<p>
+							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br>
+							<b>Company</b> - JCAA
+							<b>Duration</b> - 2 years
+							<b>Location</b> - Kingston, Jamaica
+						</p>
+					</li>
+					<li>
+						<h4>2017 - Systems Analyst</h4>
+						<p>
+							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br>
+							<b>Company</b> - JCAA
+							<b>Duration</b> - 2 years
+							<b>Location</b> - Kingston, Jamaica
+						</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
  </section>
 
  
