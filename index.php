@@ -207,7 +207,7 @@
 </div>
 <!-- Contact -->
 <div class="Contact" id="contact">
-	<div class="container title">
+	<div class="container text-center">
 		<h1>Contact Me</h1>
 		<p class="text-center">Blah blah noejbhi b jnjbhb kn bihk nk</p>
 
@@ -225,10 +225,18 @@
 				<p>www.smn.com</p>
 			</div>
 		</div>
+
 		<button type="button" class="btn btn-primary"><i class="fa fa-download">Resume</i></button>
+
 		<button type="button" class="btn btn-primary"><i class="fa fa-rocket">Hire Me</i></button>
 	</div>
+
+	<div class="footer text-center">
+		<p>Made with <i class="fa fa-heart-o"></i> by Khadejah Hylton</p>
+	</div>
 </div>
+
+
  </section>
 
  
