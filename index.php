@@ -182,7 +182,7 @@
 
 		<div class="row">
 			<div class="col-md-4">
-				<div class="service-box">
+				<div class="services-box">
 					<i class="fas fa-rocket"></i><span>Graphics</span>
 					<p>Blah blah blah blah</p>
 				</div>
@@ -190,14 +190,14 @@
 			</div>
 				<div class="col-md-4">
 
-				<div class="service-box">
+				<div class="services-box">
 					<i class="fas fa-bolt"></i><span>Development</span>
 					<p>Blah blah blah blah</p>
 				</div>
 			</div>
 				<div class="col-md-4">
 
-				<div class="service-box">
+				<div class="services-box">
 					<i class="fas fa-chart-pie"></i><span>Business Intelligence</span>
 					<p>Blah blah blah blah</p>
 				</div>
