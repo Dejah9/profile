@@ -98,6 +98,14 @@
 	</div>
 	
 </div>
+<!-- Social Icons -->
+<div class="social-icons">
+	<ul>
+		<a href="#"><li><i class="fa fa-linkedin"></i></li></a>
+		<a href="#"><li><i class="fa fa-github"></i></li></a>
+		<a href="#"><li><i class="fa fa-instagram"></i></li></a>
+	</ul>
+</div>
 
 <!-- Resume -->
 <div class="resume" id="resume">

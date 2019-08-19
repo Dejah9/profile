@@ -71,7 +71,7 @@ body{
 /*ABOUT*/
 .about{
 	padding-top: 100px;
-	padding-bottom: 50px;
+	margin-bottom:-130px;
 }
 
 .profile-img{
@@ -133,6 +133,7 @@ body{
 
 /*RESUME*/
 .resume{
+	margin: -50px;
 	padding-top: 50px;
 	padding-bottom: 30px;
 	background: #f9f9f9;
@@ -296,4 +297,35 @@ body{
 
 .fa-heart-0{
 	color: red;
+}
+
+/*Social-icons*/
+
+.social-icons{
+	top: 50%;
+	transform: translateY(-50%);
+	position: sticky;
+	z-index: 1;
+	width: 80px;
+}
+
+.social-icons ul{
+	padding: initial;
+}
+
+.social-icons ul li{
+	height: 40px;
+	width: 40px;
+	list-style-type: none;
+	padding-bottom: 12px;
+	padding-top: 6px;
+	margin-top: 5px;
+	color: #fff;
+	background: #000;
+}
+
+.social-icons ul li:hover{
+	padding-left: 30px;
+	width:80px;
+	transition: 1s;
 }
