@@ -23,7 +23,7 @@
  <section id="header">
  	<div class="container text-center">
  		<div class="user-box">
- 			<img src="kabrina.jpg">
+ 			<img src="img.jpg">
  			<h1>Khadejah Hylton</h1>
  			<p>Software Engineer</p>
  		</div>
