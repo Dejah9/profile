@@ -112,3 +112,20 @@ body{
 .nav-link{
 	color: #fff ! important;
 }
+
+.skills-bar p{
+	margin-bottom: 6px;
+	font-weight: 600;
+}
+
+.progress{
+	border-radius: 16px ! important;
+	margin-bottom: 10px;
+
+}
+
+.progress-bar{
+	border-radius: 16px;
+	background: #000 ! important;
+
+}
